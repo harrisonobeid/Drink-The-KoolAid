@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/harrisonobeid/CultLeader/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/harrisonobeid/CultLeader/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/harrisonobeid/CultLeader/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/harrisonobeid/CultLeader/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/harrisonobeid/CultLeader/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/harrisonobeid/CultLeader/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/Optional.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/Portability.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/CPortability.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/Traits.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/Utility.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/harrisonobeid/CultLeader/ios/Pods/Folly/folly/CppAttributes.h
